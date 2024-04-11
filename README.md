@@ -18,4 +18,4 @@ Real | Synthetic
 
 Real | Synthetic
 :-------------------------:|:-------------------------:
-![](https://github.com/niamhbelton/DyABD/blob/main/examples/real/exercise_1_operative_1_1_Dataset422_Abdominal_000026.gif) | ![](https://github.com/niamhbelton/DyABD/blob/main/examples/syn/exercise_1_operative_1_2_Dataset422_Abdominal_000026.gif) 
+![](https://github.com/niamhbelton/DyABD/blob/main/examples/real/exercise_1_operative_1_2_Dataset422_Abdominal_000026.gif) | ![](https://github.com/niamhbelton/DyABD/blob/main/examples/syn/exercise_1_operative_1_2_Dataset422_Abdominal_000026.gif) 

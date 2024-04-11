@@ -12,3 +12,12 @@ Real | Synthetic
 Real | Synthetic
 :-------------------------:|:-------------------------:
 ![](https://github.com/niamhbelton/DyABD/blob/main/examples/real/exercise_1_operative_0_1_Dataset422_Abdominal_000002.gif )| ![](https://github.com/niamhbelton/DyABD/blob/main/examples/syn/exercise_1_operative_0_1_Dataset422_Abdominal_000002.gif))
+
+
+## Example 3: Coughing, Post-Operative
+
+The abdominal wall remains closed while the patient performs the exercises.
+
+Real | Synthetic
+:-------------------------:|:-------------------------:
+![](https://github.com/niamhbelton/DyABD/blob/main/examples/real/exercise_1_operative_1_2_Dataset422_Abdominal_000026.gif) | ![](https://github.com/niamhbelton/DyABD/blob/main/examples/syn/exercise_1_operative_1_2_Dataset422_Abdominal_000026.gif) 

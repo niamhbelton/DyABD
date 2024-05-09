@@ -1,6 +1,6 @@
 # DyABD
 
-Read the short paper, [DyABD: A Dataset and Technique for Synthetically Generating Dynamic Abdominal MRIs with Dual Class and Anatomically Conditioned Diffusion Models](https://openreview.net/pdf?id=fZoD19wN20) at accepted as a short paper at [Medical Imaging with Deep Learning 2024](https://2024.midl.io/).
+Read the short paper, [DyABD: A Dataset and Technique for Synthetically Generating Dynamic Abdominal MRIs with Dual Class and Anatomically Conditioned Diffusion Models](https://openreview.net/pdf?id=fZoD19wN20) accepted as a short paper at [Medical Imaging with Deep Learning 2024](https://2024.midl.io/).
 
 Long paper and dataset release coming soon!
 

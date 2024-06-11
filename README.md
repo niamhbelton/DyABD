@@ -17,11 +17,12 @@ Synthetic
 ## Example 2: Coughing, Pre-Operative
 
 Synthetic
-:-------------------------:|:-------------------------:
+:-------------------------:
 ![](https://github.com/niamhbelton/DyABD/blob/main/examples/syn/exercise_1_operative_0_1_Dataset422_Abdominal_000002.gif))
 
 
 ## Example 3: Coughing, Post-Operative
 
 Synthetic
+:-------------------------:
 ![](https://github.com/niamhbelton/DyABD/blob/main/examples/syn/exercise_1_operative_1_2_Dataset422_Abdominal_000026.gif) 

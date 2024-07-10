@@ -10,18 +10,18 @@
 
 Real | Synthetic 
 :-------------------------: | :-------------------------:
-![](https://github.com/niamhbelton/DyABD/blob/main/examples/real/exercise_0_operative_0_1_Dataset422_Abdominal_101.gif)  | ![](https://github.com/niamhbelton/DyABD/blob/main/examples/syn/exercise_0_operative_0_1_Dataset422_Abdominal_101.gif) 
+![](https://github.com/niamhbelton/DyABD/blob/main/examples/real/exercise_0_operative_0_1_Dataset422_Abdominal_101.gif)  | ![](https://github.com/niamhbelton/DyABD/blob/main/examples/syn/exercise_0_operative_0_1_Dataset422_Abdominal_101_.gif) 
 
 
 ## Example 2: Coughing, Pre-Operative
 
 Real | Synthetic 
 :-------------------------: | :-------------------------:
-![](https://github.com/niamhbelton/DyABD/blob/main/examples/real/exercise_1_operative_0_1_Dataset422_Abdominal_102.gif) | ![](https://github.com/niamhbelton/DyABD/blob/main/examples/syn/exercise_1_operative_0_1_Dataset422_Abdominal_102.gif)
+![](https://github.com/niamhbelton/DyABD/blob/main/examples/real/exercise_1_operative_0_1_Dataset422_Abdominal_102.gif) | ![](https://github.com/niamhbelton/DyABD/blob/main/examples/syn/exercise_1_operative_0_1_Dataset422_Abdominal_102_.gif)
 
 
 ## Example 3: Coughing, Post-Operative
 
 Real | Synthetic 
 :-------------------------: | :-------------------------:
-![](https://github.com/niamhbelton/DyABD/blob/main/examples/real/exercise_1_operative_1_2_Dataset422_Abdominal_103.gif)  | ![](https://github.com/niamhbelton/DyABD/blob/main/examples/syn/exercise_1_operative_1_2_Dataset422_Abdominal_103.gif) 
+![](https://github.com/niamhbelton/DyABD/blob/main/examples/real/exercise_1_operative_1_2_Dataset422_Abdominal_103.gif)  | ![](https://github.com/niamhbelton/DyABD/blob/main/examples/syn/exercise_1_operative_1_2_Dataset422_Abdominal_103_.gif) 

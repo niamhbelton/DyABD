@@ -12,7 +12,7 @@ Add your email address to this [Google Form](https://docs.google.com/forms/d/e/1
 
 Real | Synthetic 
 :-------------------------: | :-------------------------:
-![](https://github.com/niamhbelton/DyABD/blob/main/examples/real/exercise_0_operative_0_1_Dataset422_Abdominal_000000%202.gif)  | ![](https://github.com/niamhbelton/DyABD/blob/main/examples/syn/exercise_0_operative_0_1_Dataset422_Abdominal_000000%202.gif) 
+![](https://github.com/niamhbelton/DyABD/blob/main/examples/real/exercise_0_operative_0_1_Dataset422_Abdominal_000000.gif)  | ![](https://github.com/niamhbelton/DyABD/blob/main/examples/syn/exercise_0_operative_0_1_Dataset422_Abdominal_000000%202.gif) 
 
 
 ## Example 2: Coughing, Pre-Operative
